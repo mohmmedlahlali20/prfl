@@ -195,7 +195,7 @@ export const translations = {
       titlePrefix: "Allier Rigueur Architecturale &",
       titleHighlight: "Expérience Utilisateur",
       subtitle: "Un ingénieur logiciel passionné par la jonction entre infrastructures backend robustes et interfaces utilisateur fluides et réactives.",
-      p1: "Bonjour ! Je suis Mohammed Lahlali, Ingénieur Logiciel Full-Stack basé à Safi, Maroc. Mon parcours combine la formation intensive par projets de YouCode (UM6P) avec le développement de plateformes de production critiques chez TELUS CRC MAROC et ARIAS TECH SOLUTIONS.",
+      p1: "Bonjour ! Je suis Mohammed Lahlali, Ingénieur Logiciel Full-Stack basé à CasaBlanca, Maroc. Mon parcours combine la formation intensive par projets de YouCode (UM6P) avec le développement de plateformes de production critiques chez TELUS CRC MAROC et ARIAS TECH SOLUTIONS.",
       p2: "De la conception d'un moteur de sondages automatisés intégré à l'API WhatsApp Business et de scrapers Python à haut débit (75 000+ annonces) jusqu'à la supervision télémétrique de drones UXV en temps réel et la surveillance aérienne avec Mapbox GL JS, je me spécialise dans les applications à haute valeur ajoutée.",
       p3: "Je privilégie les machines d'état prédictibles, des API REST et WebSocket rigoureuses, ainsi que des schémas de bases de données optimisés (PostgreSQL, Supabase, MongoDB).",
       facts: {
