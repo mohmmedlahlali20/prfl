@@ -161,7 +161,7 @@ export const translations = {
       projects: "Projets",
       experience: "Parcours",
       contact: "Contact",
-      resume: "CV",
+      resume: "resume",
       downloadResume: "Télécharger le CV",
       brandSubtitle: "Architecte Logiciel",
     },

@@ -46,7 +46,7 @@ export const skillCategories = [
       { name: "Python", level: "Intermediate", tags: ["FastAPI", "Data Scraping"] },
       { name: "WebSockets & Socket.io", level: "Advanced", tags: ["Real-Time", "Bi-directional"] },
       { name: "WebRTC", level: "Proficient", tags: ["P2P", "Voice & Video Streaming"] },
-      { name: "REST APIs & GraphQL", level: "Expert", tags: ["Swagger", "OpenAPI", "Specs"] },
+      { name: "REST APIs", level: "Expert", tags: ["Swagger", "OpenAPI", "Specs"] },
       { name: "JWT & OAuth2", level: "Advanced", tags: ["Auth", "Role-Based Access"] },
     ],
   },
